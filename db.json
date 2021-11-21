@@ -1,114 +1,116 @@
-{
-  "category": {
-    "create": true,
-    "read": true,
-    "update": true,
-    "delete": true
-  },
-  "provider": {
-    "create": true,
-    "read": true,
-    "update": true,
-    "delete": true
-  },
-  "account": {
-    "create": true,
-    "read": true,
-    "update": true,
-    "delete": true
-  },
-  "account_transaction": {
-    "create": true,
-    "read": true,
-    "update": true,
-    "delete": true
-  },
-  "campaign": {
-    "create": true,
-    "read": true,
-    "update": true,
-    "delete": true
-  },
-  "campaign_history": {
-    "create": true,
-    "read": true,
-    "update": true,
-    "delete": true
-  },
-  "device": {
-    "create": true,
-    "read": true,
-    "update": true,
-    "delete": true
-  },
-  "device_event": {
-    "create": true,
-    "read": true,
-    "update": true,
-    "delete": true
-  },
-  "export_history": {
-    "create": true,
-    "read": true,
-    "update": true,
-    "delete": true
-  },
-  "order": {
-    "create": true,
-    "read": true,
-    "update": true,
-    "delete": true
-  },
-  "product": {
-    "create": true,
-    "read": true,
-    "update": true,
-    "delete": true
-  },
-  "report": {
-    "create": true,
-    "read": true,
-    "update": true,
-    "delete": true
-  },
-  "reward": {
-    "create": true,
-    "read": true,
-    "update": true,
-    "delete": true
-  },
-  "shipping": {
-    "create": true,
-    "read": true,
-    "update": true,
-    "delete": true,
-    "confirm": true,
-    "submit": true,
-    "cancel": true
-  },
-  "staff": {
-    "create": true,
-    "read": true,
-    "update": true,
-    "delete": true
-  },
-  "stock_event": {
-    "create": true,
-    "read": true,
-    "update": true,
-    "delete": true,
-    "confirm": true
-  },
-  "warehouse_inventory_event": {
-    "create": true,
-    "read": true,
-    "update": true,
-    "delete": true
-  },
-  "warehouse": {
-    "create": true,
-    "read": true,
-    "update": true,
-    "delete": true
+{ 
+  "permissions": {
+    "category": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    "provider": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    "account": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    "account_transaction": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    "campaign": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    "campaign_history": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    "device": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    "device_event": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    "export_history": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    "order": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    "product": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    "report": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    "reward": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    "shipping": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true,
+      "confirm": true,
+      "submit": true,
+      "cancel": true
+    },
+    "staff": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    "stock_event": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true,
+      "confirm": true
+    },
+    "warehouse_inventory_event": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
+    "warehouse": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    }
   }
 }
