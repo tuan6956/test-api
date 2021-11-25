@@ -112,7 +112,7 @@
       "update": true,
       "delete": true
     },
-    "export_order": {
+    "order_export": {
       "read": true,
       "create": true
     }
