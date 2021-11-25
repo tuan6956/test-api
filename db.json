@@ -1,5 +1,5 @@
 { 
-  "permissions2": {
+  "permissions": {
     "category": {
       "create": true,
       "read": true,
