@@ -111,6 +111,10 @@
       "read": true,
       "update": true,
       "delete": true
+    },
+    "export_order": {
+      "read": true,
+      "create": true
     }
   }
 }
