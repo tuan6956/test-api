@@ -115,6 +115,12 @@
     "order_export": {
       "read": true,
       "create": true
-    }
+    },
+    "maintain_device": {
+      "create": true,
+      "read": true,
+      "update": true,
+      "delete": true
+    },
   }
 }
